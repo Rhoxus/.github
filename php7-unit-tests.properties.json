@@ -1,0 +1,13 @@
+{
+    "name": "PHP 7.X Unit Tests Action",
+    "description": "Runs unit tests on your PHP project.",
+    "iconName": "example-icon",
+    "categories": [
+        "PHP"
+    ],
+    "filePatterns": [
+        "composer.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
